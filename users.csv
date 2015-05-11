@@ -1,0 +1,8 @@
+SEQUENTIAL
+
+user001;[authentication username=user001 password=password001]
+
+user002;[authentication username=user001 password=password001]
+
+user003;[authentication username=user001 password=password001]
+
